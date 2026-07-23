@@ -158,7 +158,11 @@ public class LogAnalyzerApp {
                 <div class="container">
                     <div class="header">
                         <h1>🔍 AI Log Analyzer</h1>
-                        <p>Intelligent log analysis powered by Claude AI</p>
+                        <p>Demo Version - Intelligent log analysis (Mock Mode)</p>
+<div style="background: #fff3cd; padding: 10px; margin-bottom: 20px; border-radius: 8px; border-left: 4px solid #ffc107;">
+    ℹ️ This is a demo using simulated AI responses. 
+    Production version uses real Claude API.
+</div>
                     </div>
                     
                     <div class="card">
